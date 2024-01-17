@@ -1,0 +1,13 @@
+.pagina
+{
+    display: grid;
+    width: auto;
+    height: auto;
+}
+
+.titular
+{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
